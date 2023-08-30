@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin</h1>
 <h3 align="center">Analytically driven Data Analyst</h3>
 
-<img align="right"alt="coding"width="400"src ="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right"alt="coding"width="400"src ="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wxbjo87vwutsoqmovpx9z1bcjgdt330t5hajm89v&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin8570&label=Profile%20views&color=0e75b6&style=flat" alt="jatin8570" /> </p>
 
