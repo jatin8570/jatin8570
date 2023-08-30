@@ -1,7 +1,12 @@
+<!--https://rahuldkjain.github.io/gh-profile-readme-generator/
+This is the link to edit the readme file for more -->
+
+<!-- ![logo]()-->
+
 <h1 align="center">Hi 👋, I'm Jatin</h1>
 <h3 align="center">Analytically driven Data Analyst</h3>
 
-<img align="right"alt="coding"width="400"src ="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wxbjo87vwutsoqmovpx9z1bcjgdt330t5hajm89v&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<!--<img align="right"alt="coding"width="400"src ="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wxbjo87vwutsoqmovpx9z1bcjgdt330t5hajm89v&ep=v1_gifs_search&rid=giphy.gif&ct=g">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin8570&label=Profile%20views&color=0e75b6&style=flat" alt="jatin8570" /> </p>
 
@@ -22,17 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin8570&show_icons=true&locale=en" alt="jatin8570" /></p>
 
 
-<!--
-**jatin8570/jatin8570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
